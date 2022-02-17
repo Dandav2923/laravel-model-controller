@@ -1,4 +1,4 @@
-@extends('layouts.blade')
+@extends('layouts.base')
 
 @section('content')
     @foreach ($movies as $item)
